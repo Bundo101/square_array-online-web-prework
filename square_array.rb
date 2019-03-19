@@ -4,9 +4,4 @@ def square_array(array)
     |n| new_array.push(n**2)
   end
   new_array
-  #new_array = []
-  #array.each do |array_element|
-    #new_array << array_element**2
-  #end
-  #new_array
 end
